@@ -1,0 +1,24 @@
+Authentication & Autherisation
+
+user ko profile dene se pahele ye check karna hota hai ki user hai kaun - Authentication
+
+authorised to perform some tasks which are only allowed to be executed by the admin
+
+server har bar vul jata hain aap kaun ho...to har bar saare kaam keliye wo apse puchte hai ki aap kaun ho
+
+CONCEPT :-
+
+sabse pahle humein kuch cheezein sikhni jai alag alag
+1) cookie kaise set karte hai & read karte hai
+2) bcrypt kaise use karte hai for password encryption and decryption
+3) jwt kya hai and jwt mein data kaise store kareein and bahar nikaleein 
+
+
+(npm i jsonwebtoken)
+i express
+i cookie-parser
+
+
+
+pocoloco
+$2b$10$g9P0FGRo9JKGZKbU.2tqROjqyUW4H.uD0E9kE8O/JNTFA6KLGnVTO
