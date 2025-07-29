@@ -1,1 +1,11 @@
+mongoDB installation
+mongoDB connection
+schema
+model
+create, read, update,  delete
 
+steps:-
+1. install package json
+2. install express
+3. app.json
+4. usermodel.json
